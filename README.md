@@ -1,5 +1,5 @@
 ### Hi there 👋
-<!--
+
 - 🔭 Hi I'm Dinah,I'm currently working as a copywriter, but I'd like to do something different that I'm passionate about.
 - 🌱 I'm learning web development, wordpress at Sayna
 - 👯 I'm interested in web professions, which is why I like to increase my skills and deepen my knowledge with Sayna.
